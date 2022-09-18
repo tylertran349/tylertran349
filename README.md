@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tylertran349&label=Profile%20views&color=0e75b6&style=flat" alt="tylertran349" /> </p>
 
-- 🔭 I’m currently working on **The Odin Project**
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
 - 🌱 I’m currently learning **C++, HTML, CSS, and JS**
 
