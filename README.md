@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, HTML, CSS, and JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tylertran349?tab=repositories](https://github.com/tylertran349?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/tylertran349?tab=repositories)
 
 - 📫 Reach me by email! **tylertran349@gmail.com**
 
