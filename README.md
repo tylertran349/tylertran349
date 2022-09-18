@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">A passionate frontend developer from San Jose, California!</h3>
+<h3 align="center">A young, passionate developer from San Jose, California!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tylertran349&label=Profile%20views&color=0e75b6&style=flat" alt="tylertran349" /> </p>
 
