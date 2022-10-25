@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/tylertran349?tab=repositories)
 
-- 📫 Reach me by email! **tylertran349@gmail.com**
+- 📫 Reach me by email! **tylertran349(at)gmail.com**
 
 - ⚡ Fun fact **I'm 18 but turning 19 this year!**
 
