@@ -11,7 +11,7 @@
 
 - 📫 Reach me by email! **tylertran349(at)gmail.com**
 
-- ⚡ Fun fact **I'm 18 but turning 19 this year!**
+- ⚡ Fun fact **I'm 19 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
