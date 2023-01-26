@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **C++, HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning **C++, HTML, CSS, JavaScript, and React**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/tylertran349?tab=repositories)
 
