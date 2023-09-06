@@ -11,7 +11,7 @@
 
 - 📫 Reach me by email! **tylertran349(at)gmail.com**
 
-- ⚡ Fun fact **I'm 19 years old**
+- ⚡ Fun fact **I am a 49ers fan and flight simulation enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
